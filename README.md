@@ -31,7 +31,7 @@ The analysis of the election show that:
     
     Below is the code snippet from Python script that helps in obtaining this total vote count for entire election. This snippet shows the opening of input file in the read mode, reading the header row and storing it in a separate header variable. From the next row, starting the row count for total votes and saving it, for each row, under a repetition statement of 'for'.
 
-    ![Total_Vote_Code_Snippet](Resources\Vote_count.png)
+    ![Total_Vote_Code_Snippet](https://github.com/kirtibhandari/Election_Analysis/blob/main/Resources/Vote_count.png)
 
 
 * There were three counties as listed below depicted below with their results:
@@ -46,13 +46,13 @@ The analysis of the election show that:
 
     Below code snippet helps in fetching out total votes in each county and percentage of votes for each county, out of total '369,711' votes cast in election.
 
-    ![Code_Snippet_County](Resources\Code_Snippet_County.png)
+    ![Code_Snippet_County](https://github.com/kirtibhandari/Election_Analysis/blob/main/Resources/Code_Snippet_County.png)
  
 * **County** that had largest number of votes cast: **Denver**
 
     Below is the code snippet through which we find out which county had maximum number of votes cast and prints it to the terminal:
 
-    ![Winning_County_Code_Snippet](Resources\Winning_County.png)
+    ![Winning_County_Code_Snippet](https://github.com/kirtibhandari/Election_Analysis/blob/main/Resources/Winning_County.png)
 
 * There were three candidates as presented below with their results:
     - **Charles Casper Stockham**
@@ -64,28 +64,28 @@ The analysis of the election show that:
 
         Here we present code snippet screenshot that helped in extracting total votes for each candidate as well as percentage of their votes out of total votes in election which prints the results on the terminal as well.
 
-        ![Code_Snippet_Candidate](Resources\Code_Snippet_Candidate.png)
+        ![Code_Snippet_Candidate](https://github.com/kirtibhandari/Election_Analysis/blob/main/Resources/Code_Snippet_Candidate.png)
 
 * The **winner** of the election was:
     - ***Diana DeGette***, who received "**73.8%**" of the vote and "**272,892**" number of votes.
 
     Last, but not least, here we use the follwong code in the script to find out who is the winner of the election, along with candidate's total number and percentage of votes for the winning candidate, printing at the terminal.
 
-    ![Winning_Candiate_Code_Screenshot](Resources\Winning_Candidate.png)
+    ![Winning_Candiate_Code_Screenshot](https://github.com/kirtibhandari/Election_Analysis/blob/main/Resources/Winning_Candidate.png)
 
 ## Deliverable 1 requirement:
 When the PyPoll_Challenge.py script is run on Command prompt, the required outcomes gets printed on the terminal as below:
 
 #### Command_Prompt_Results Screenshot
 
-![Command_Prompt_Results_Screenshot](Resources\Command_Prompt_Output.png)
+![Command_Prompt_Results_Screenshot](https://github.com/kirtibhandari/Election_Analysis/blob/main/Resources/Command_Prompt_Output.png)
 
 After writing and saving the ouput to 'election_results.txt' file, following output was obtained in the this output file as required in this module challenge.
 
 ## Deliverable 2 requirement:
 #### Election_Results.Txt Screenshot  
 
-![Election_Results_Text_File_Output](Resources\Election_Results_Txt_Screenshot.png)
+![Election_Results_Text_File_Output](https://github.com/kirtibhandari/Election_Analysis/blob/main/Resources/Election_Results_Txt_Screenshot.png)
 
 
 ## **Election-Audit Summary**
