@@ -19,7 +19,7 @@ For the fulfillment of election commission’s project requirement, we were requ
 * Data Source: election_results.csv (Input file which will be read by our Python program script to determine the required information)
 * Software Used: Python 3.7.6, Visual Studio Code, 1.51.0
 * Output file: election_analysis_results.txt (The results will automatically be written and saved to this text file when we run our Python script)
-* Also, the results will be displayed on the terminal on which final Python script 'PyPoll_analysis.py' is run, i.e. Command prompt 
+* Also, the results will be displayed on the terminal on which final Python script 'PyPoll_Analysis.py' is run, i.e. Command prompt 
 
 ## **Election-Audit Results**
 
@@ -72,7 +72,7 @@ The analysis of the election show that:
     ![Winning_Candidate_Code_Screenshot](https://github.com/kirtibhandari/Election_Analysis/blob/main/Resources/Winning_Candidate.png)
 
 ## Analysis Requirement 1:
-When the PyPoll_analysis.py script is run on Command prompt, the required outcomes gets printed on the terminal as below:
+When the PyPoll_Analysis.py script is run on Command prompt, the required outcomes gets printed on the terminal as below:
 
 #### Command_Prompt_Results Screenshot
 
