@@ -1,4 +1,4 @@
-# **Election Result Analysis**
+# **Election_Results_Data_Analysis**
 
 ## **Project Overview** 
 A Colorado Board of Elections employee wanted us to do an analysis of election results for submission of election results by doing the election audit of a recent local congressional election. 
@@ -12,16 +12,14 @@ For the fulfillment of election commission’s project requirement, we were requ
 2.  Calculate the number of votes cast in each county and the percentage of total votes for each county in the precinct
 3.  Determine name of the county which had the largest number of votes 
 4.  Calculate the number of votes and percentage of total votes received by each candidate 
-5. Determine the winner of the election based on popular vote.
+5.  Determine the winner of the election based on popular vote.
 
 ### Resources:
 
 * Data Source: election_results.csv (Input file which will be read by our Python program script to determine the required information)
 * Software Used: Python 3.7.6, Visual Studio Code, 1.51.0
-* Starter file: PyPoll_Challenge_starter_code.py (Starter Python Script file for the module challenge completion which is renamed as **PyPoll_Challenge.py** as the final solution script for this challenge)
 * Output file: election_results.txt (The results will automatically be written and saved to this text file when we run our Python script)
-
-** Also, the results will be displayed on the terminal on which final Python script 'PyPoll_Challenge.py' is run, i.e. Command prompt (as required by module challenge) 
+* Also, the results will be displayed on the terminal on which final Python script 'PyPoll_analysis.py' is run, i.e. Command prompt 
 
 ## **Election-Audit Results**
 
@@ -69,20 +67,20 @@ The analysis of the election show that:
 * The **winner** of the election was:
     - ***Diana DeGette***, who received "**73.8%**" of the vote and "**272,892**" number of votes.
 
-    Last, but not least, here we use the follwong code in the script to find out who is the winner of the election, along with candidate's total number and percentage of votes for the winning candidate, printing at the terminal.
+    Last, but not least, here we use the following code in the script to find out who is the winner of the election, along with candidate's total number and percentage of votes for the winning candidate, printing at the terminal.
 
-    ![Winning_Candiate_Code_Screenshot](https://github.com/kirtibhandari/Election_Analysis/blob/main/Resources/Winning_Candidate.png)
+    ![Winning_Candidate_Code_Screenshot](https://github.com/kirtibhandari/Election_Analysis/blob/main/Resources/Winning_Candidate.png)
 
-## Deliverable 1 requirement:
-When the PyPoll_Challenge.py script is run on Command prompt, the required outcomes gets printed on the terminal as below:
+## Analysis Requirement 1:
+When the PyPoll_analysis.py script is run on Command prompt, the required outcomes gets printed on the terminal as below:
 
 #### Command_Prompt_Results Screenshot
 
 ![Command_Prompt_Results_Screenshot](https://github.com/kirtibhandari/Election_Analysis/blob/main/Resources/Command_Prompt_Output.png)
 
-After writing and saving the ouput to 'election_results.txt' file, following output was obtained in the this output file as required in this module challenge.
+After writing and saving the output to 'election_results.txt' file, following output was obtained in the this output file as required in this analysis.
 
-## Deliverable 2 requirement:
+## Analysis Requirement 2:
 #### Election_Results.Txt Screenshot  
 
 ![Election_Results_Text_File_Output](https://github.com/kirtibhandari/Election_Analysis/blob/main/Resources/Election_Results_Txt_Screenshot.png)
